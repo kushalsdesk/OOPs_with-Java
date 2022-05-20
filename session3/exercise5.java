@@ -1,4 +1,4 @@
-package com.upgrad.c1.session3;
+package session3;
 
 import java.util.Scanner;
 

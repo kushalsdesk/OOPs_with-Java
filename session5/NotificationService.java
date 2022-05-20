@@ -1,6 +1,6 @@
 //OMG, Perfect example of OOP's facility, There is inheritance , 
 //polymorphism , Encapsulation , abstraction and constructor chaining
-package com.upgrad.c1.session5;
+package session5;
 
 //Abstracting a class means this is just like prototyping, 
 //letting the system know that we will inherit from this later.

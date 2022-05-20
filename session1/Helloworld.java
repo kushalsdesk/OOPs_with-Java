@@ -1,4 +1,4 @@
-package com.upgrad.c1.session1;
+package session1;
 
 public class Helloworld {
     public static void main(String[] args) {

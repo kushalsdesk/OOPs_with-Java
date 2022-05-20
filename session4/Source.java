@@ -1,4 +1,4 @@
-package com.upgrad.c1.session4;
+package session4;
 
 // This program shows the sum of the total sum of lines with Abstraction
 import java.io.BufferedReader;

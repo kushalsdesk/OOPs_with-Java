@@ -1,6 +1,6 @@
 // The pattern making program, pascal's triangle with numbers(but with a mixed triangle)
 
-package com.upgrad.c1.Handson1;
+package Handson1;
 
 import java.util.*;
 

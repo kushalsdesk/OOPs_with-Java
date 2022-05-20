@@ -1,4 +1,4 @@
-package com.upgrad.c1.Handson1;
+package Handson1;
 
 import java.util.Random;
 import java.util.Scanner;

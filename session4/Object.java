@@ -1,4 +1,4 @@
-package com.upgrad.c1.session4;
+package session4;
 
 public class Object {
     public static void main(String[] args) {

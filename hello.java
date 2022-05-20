@@ -1,4 +1,3 @@
-package com.upgrad.c1;
 
 //import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.upgrad.c1.session5;
+package session5;
 
 public class Employee {
     private int employeeCode;

@@ -1,4 +1,4 @@
-package com.upgrad.c1.session5;
+package session5;
 
 //This program shows implementation of the interface
 interface Mobile {

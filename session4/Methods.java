@@ -1,5 +1,5 @@
 //Java calls it Methods but we can also think this block as functions, but this Methods will actually help with Object Manipulation
-package com.upgrad.c1.session4;
+package session4;
 
 public class Methods {
     // signature

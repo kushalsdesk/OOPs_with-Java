@@ -1,6 +1,6 @@
 //FInds the index position of the largest number in an array
 
-package com.upgrad.c1.session3;
+package session3;
 
 class exercise1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.upgrad.c1.session2;
+package session2;
 
 //import java.util.*;
 

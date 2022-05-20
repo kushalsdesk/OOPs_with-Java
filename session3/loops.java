@@ -1,5 +1,5 @@
 // This program only deiopqru8+79monstrate the for loop, but we have other examples with while and do-while loops also
-package com.upgrad.c1.session3;
+package session3;
 
 import java.util.*;
 

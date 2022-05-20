@@ -1,4 +1,3 @@
-package com.upgrad.c1;
 
 import java.util.*;
 
@@ -51,6 +50,7 @@ public class Solution {
         Solution sol = new Solution();
 
         System.out.println(Arrays.toString(end_user));
+        sc.close();
 
     }
 }

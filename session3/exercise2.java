@@ -1,5 +1,5 @@
 //You will be given an integer n and you need to find the last non-zero digit in n! (factorial n). 
-package com.upgrad.c1.session3;
+package session3;
 
 import java.util.*;
 

@@ -1,5 +1,5 @@
 // we have displayed objects of this class in object.java file
-package com.upgrad.c1.session4;
+package session4;
 
 public class HumanBeing {
     // this is called static or class-level variale
