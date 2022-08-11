@@ -92,6 +92,7 @@ public class Employee_Register {
         String searched_emp = register.findEmployee(search_emp);
         System.out.println(searched_emp);
         sc.close();
+
     }
 
 }
